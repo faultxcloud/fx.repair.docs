@@ -75,6 +75,6 @@ Cocok untuk:
 | ODM       | Baru    | Standar – bervariasi | Ekonomis     |
 | Refurbish | Bekas   | Tergantung kondisi   | Paling murah |
 
-{: .caution}
+{: .note }
 > Dalam servis laptop, tidak ada pilihan **“paling benar”** untuk semua orang.  
 Pilihan terbaik adalah yang sesuai kebutuhan, budget, dan tingkat risiko yang dapat diterima pelanggan.
