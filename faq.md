@@ -66,7 +66,7 @@ Contoh:
 Cocok untuk:  
 *Pengguna yang mencari harga murah dan memahami risikonya.*
 
-# Ringkasan Perbandingan
+## Ringkasan Perbandingan
 
 | Jenis     | Kondisi | Kualitas             | Harga        |
 | :---: | :---: | :---: | :---: |
