@@ -8,7 +8,7 @@ gem "jekyll", "~> 4.4.1" # installed by `gem jekyll`
 
 gem "just-the-docs", "0.10.1"
 gem "sass-embedded", "1.78.0"
-gem "logger", "1.6.4"
+gem "logger", "1.7.0"
 
 gem "jekyll-feed"
 gem "jekyll-seo-tag"
